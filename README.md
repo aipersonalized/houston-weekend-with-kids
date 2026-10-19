@@ -76,6 +76,10 @@ The core follows the Agent Skills format. The optional plugin uses Claude Code's
 
 For corrections, open a [GitHub issue](https://github.com/aipersonalized/houston-weekend-with-kids/issues) with public, non-sensitive details. Include the affected rule/source and expected behavior. Do not post family records, private travel plans, account details or credentials.
 
+## Support this project
+
+If this skill helps your family spend time together, you can optionally [buy me a coffee](https://buymeacoffee.com/aipersonalized). Support is voluntary; the skill remains free to use under its MIT license.
+
 ## License
 
 Authored instructions and code are [MIT licensed](LICENSE). External websites, venue names and third-party content retain their owners' rights. This project is independent of the listed venues, weather services and AI providers.
