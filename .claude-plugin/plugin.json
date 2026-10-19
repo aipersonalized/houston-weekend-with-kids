@@ -1,0 +1,9 @@
+{
+  "name": "houston-weekend-with-kids",
+  "version": "1.0.0",
+  "description": "Plan family time in Houston with current local discovery, weather checks and realistic two-day itineraries.",
+  "author": {"name": "aipersonalized", "url": "https://github.com/aipersonalized"},
+  "repository": "https://github.com/aipersonalized/houston-weekend-with-kids",
+  "license": "MIT",
+  "keywords": ["houston", "family", "travel", "agent-skills"]
+}

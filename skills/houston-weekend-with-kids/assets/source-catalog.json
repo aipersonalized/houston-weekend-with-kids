@@ -1,0 +1,14 @@
+{
+  "contract_version": 1,
+  "scope": "Complete selected public planning pages for a Houston family weekend, not whole websites. No accounts, scripts, linked checkout, images or private input.",
+  "sources": [
+    {"id": "tourism-kids", "url": "https://www.visithoustontexas.com/things-to-do/attractions/things-to-do-with-kids/", "publisher": "Visit Houston", "title": "Things to Do With Kids in Houston", "markers": ["Museum District", "Space Center Houston"]},
+    {"id": "space-visitor", "url": "https://spacecenter.org/visitor-information/", "publisher": "Space Center Houston", "title": "Visitor Information", "markers": ["NASA Tram", "parking"]},
+    {"id": "space-guide", "url": "https://spacecenter.org/visitor-information/guide/", "publisher": "Space Center Houston", "title": "Plan Your Visit", "markers": ["hours", "Tram"]},
+    {"id": "space-tram", "url": "https://spacecenter.org/exhibits-and-experiences/nasa-tram-tour/", "publisher": "Space Center Houston", "title": "NASA Tram Tours", "markers": ["Mission Control", "Rocket"]},
+    {"id": "childrens-visit", "url": "https://www.cmhouston.org/plan-a-visit", "publisher": "Children's Museum Houston", "title": "Plan a Visit", "markers": ["Admission", "reserve"]},
+    {"id": "hmns-hours", "url": "https://www.hmns.org/visit/hours-admission/", "publisher": "Houston Museum of Natural Science", "title": "Hours & Admission", "markers": ["Butterfly", "Last Entry"]},
+    {"id": "zoo-hours", "url": "https://www.houstonzoo.org/plan-your-visit/hours/", "publisher": "Houston Zoo", "title": "Zoo Hours", "markers": ["ticket", "hours"]},
+    {"id": "metro-museum", "url": "https://www.ridemetro.org/riding-metro/houston-attractions/museum-district", "publisher": "METRO", "title": "Museum District", "markers": ["Red Line", "Station"]}
+  ]
+}

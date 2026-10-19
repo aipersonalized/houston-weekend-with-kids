@@ -1,0 +1,20 @@
+metadata:
+  scope: "Houston family weekend planning"
+SKILL.md:
+  _purpose: "Shared Houston planning terms"
+  anchor: "Priority attraction setting the day's area and time budget"
+  provisional: "Outline conditional on explicit missing inputs or evidence"
+playbooks:
+  _purpose: "Planning transitions"
+  visit-depth: "Experiences covered by estimated visit duration"
+  weather-swap: "Replacement with its own admission/schedule checks"
+references:
+  _purpose: "Source-grounded terms"
+  entry-dependency: "Required ticket, reservation, boarding pass or add-on"
+scripts:
+  _purpose: "Public-source tooling"
+  source-id: "Reviewed fixed public page ID from assets/source-catalog.json"
+  local-check: "File/inventory integrity without remote freshness claims"
+schemas:
+  _purpose: "Planning/shopping interface"
+  feasible-admissions: "Desired admissions fitting stated windows to disclosed evidence level"

@@ -1,0 +1,12 @@
+{
+  "name": "aipersonalized-houston-skills",
+  "description": "A portable Houston family-weekend skill with an optional Claude Code adapter.",
+  "owner": {"name": "aipersonalized"},
+  "plugins": [
+    {
+      "name": "houston-weekend-with-kids",
+      "source": "./",
+      "description": "Houston family weekend planning with local discovery and weather checks."
+    }
+  ]
+}
